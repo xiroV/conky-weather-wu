@@ -1,5 +1,5 @@
 # Introduction
-This is a weather plugin to be used by those who use conky with i3bar (as an replacement to i3status). The plugin will pull weather information from [http://wunderground.com] every 10 minutes, and you will need your own API key from [https://www.wunderground.com/weather/api/].
+This is a weather plugin to be used by those who use conky with i3bar (as an replacement to i3status). The plugin will pull weather information from http://wunderground.com every 10 minutes, and you will need your own API key from https://www.wunderground.com/weather/api/.
 
 The plugin is written in Python 3.5.
 
