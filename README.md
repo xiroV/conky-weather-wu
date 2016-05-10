@@ -3,7 +3,7 @@ This is a weather plugin written in Python using the Wunderground API. The prima
 
 The plugin will pull weather information from [Weather Underground](https://www.wunderground.com/?apiref=7e6536cf90e4891d) every 10 minutes, and you will need your own API key from [here](https://www.wunderground.com/weather/api/).
 
-The plugin is written in Python 3.5.
+The plugin is written using Python 3.5, and hence is also only tested with Python 3.5.
 
 # Dependencies
 - Python 3.5
@@ -16,7 +16,7 @@ The plugin is written in Python 3.5.
 # Install
 ## For use with Conky
  1. Extract the contents to a directory ```dir```
- 2. Modify the contents of the specified section in ```i3conky_weather.py```
+ 2. Modify the contents of the specified section in ```conky_weather.py```
    - ```wu_dir``` Absolute path to ```dir```
    - ```api_key``` Your API key from [Wunderground.com](https://www.wunderground.com/weather/api/). 
    - ```country``` This variable depends on wether you live in the US or not:
@@ -25,7 +25,7 @@ The plugin is written in Python 3.5.
    - ```city``` The name of the city/area you want to get your weather data on.
 
    If you are unsure about what you should write for ```country``` or ```city```, try searching [Weather Underground](https://www.wunderground.com/?apiref=7e6536cf90e4891d).
- 3. Insert ```{execp python ~/__dir__/i3conky_weather.py}``` in your ```.conkyrc```
+ 3. Insert ```{execp python ~/__dir__/conky_weather.py}``` in your ```.conkyrc```
 
 # Configuration
 Coming soon
