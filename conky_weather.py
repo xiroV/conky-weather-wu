@@ -4,7 +4,7 @@ import os
 from wu_api import WundergroundAPI
 
 ##### Edit here #####
-wu_dir = '/home/xirov/projects/i3conky-weather'
+wu_dir = '/home/xirov/projects/conky-weather-wu'
 api_key = 'b2fd9cf3d2750fc7'
 country = 'Denmark'
 city = 'Odense'
