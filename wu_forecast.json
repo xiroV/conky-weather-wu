@@ -14,25 +14,23 @@
 		"country":"DN",
 		"country_iso3166":"DK",
 		"country_name":"Denmark",
-		"state":"",
+		"state":"83",
 		"city":"Odense",
-		"tz_short":"CEST",
+		"tz_short":"CET",
 		"tz_long":"Europe/Copenhagen",
-		"lat":"55.47000122",
+		"lat":"55.47999954",
 		"lon":"10.32999992",
 		"zip":"00000",
 		"magic":"1",
 		"wmo":"06120",
 		"l":"/q/zmw:00000.1.06120",
 		"requesturl":"global/stations/06120.html",
-		"wuiurl":"http://www.wunderground.com/global/stations/06120.html",
+		"wuiurl":"https://www.wunderground.com/global/stations/06120.html",
 		"nearby_weather_stations": {
 		"airport": {
 		"station": [
 		{ "city":"Odense / Beldringe", "state":"", "country":"Denmark", "icao":"EKOD", "lat":"55.47499847", "lon":"10.33055592" }
 		,{ "city":"Odense", "state":"", "country":"DN", "icao":"EKOD", "lat":"55.47499847", "lon":"10.33055592" }
-		,{ "city":"Vamdrup", "state":"", "country":"DN", "icao":"EKVD", "lat":"55.43750000", "lon":"9.33361053" }
-		,{ "city":"Soenderborg", "state":"", "country":"DN", "icao":"EKSB", "lat":"54.96222305", "lon":"9.78750038" }
 		]
 		}
 		,
@@ -46,7 +44,7 @@
 		"id":"IODENSE63",
 		"lat":55.453449,
 		"lon":10.317951,
-		"distance_km":1,
+		"distance_km":3,
 		"distance_mi":1
 		},
 		{
@@ -57,8 +55,19 @@
 		"id":"IODENSE57",
 		"lat":55.460133,
 		"lon":10.291737,
-		"distance_km":2,
+		"distance_km":3,
 		"distance_mi":1
+		},
+		{
+		"neighborhood":"Hjadstrupvej",
+		"city":"Otterup",
+		"state":"",
+		"country":"DN",
+		"id":"IOTTERUP10",
+		"lat":55.510857,
+		"lon":10.335687,
+		"distance_km":3,
+		"distance_mi":2
 		},
 		{
 		"neighborhood":"Agerhønevænget",
@@ -68,7 +77,18 @@
 		"id":"IODENSE41",
 		"lat":55.438499,
 		"lon":10.343844,
-		"distance_km":3,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Bogegaardsvej",
+		"city":"Søndersø",
+		"state":"",
+		"country":"DK",
+		"id":"ISNDERS2",
+		"lat":55.491634,
+		"lon":10.257929,
+		"distance_km":4,
 		"distance_mi":2
 		},
 		{
@@ -79,8 +99,8 @@
 		"id":"IODENSE100",
 		"lat":55.432838,
 		"lon":10.332751,
-		"distance_km":4,
-		"distance_mi":2
+		"distance_km":5,
+		"distance_mi":3
 		},
 		{
 		"neighborhood":"Anderupvænget",
@@ -90,30 +110,8 @@
 		"id":"IODENSE89",
 		"lat":55.437668,
 		"lon":10.371517,
-		"distance_km":4,
-		"distance_mi":2
-		},
-		{
-		"neighborhood":"Hjadstrupvej",
-		"city":"Otterup",
-		"state":"",
-		"country":"DN",
-		"id":"IOTTERUP10",
-		"lat":55.510857,
-		"lon":10.335687,
-		"distance_km":4,
-		"distance_mi":2
-		},
-		{
-		"neighborhood":"Bøgegårdsvej",
-		"city":"Skamby",
-		"state":"",
-		"country":"DK",
-		"id":"ISKAMBY2",
-		"lat":55.492134,
-		"lon":10.261614,
-		"distance_km":4,
-		"distance_mi":2
+		"distance_km":5,
+		"distance_mi":3
 		},
 		{
 		"neighborhood":"Odense",
@@ -127,36 +125,58 @@
 		"distance_mi":3
 		},
 		{
-		"neighborhood":"Bogegaardsvej",
-		"city":"Søndersø",
+		"neighborhood":"Odense Municipality",
+		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"ISNDERS2",
-		"lat":55.491634,
-		"lon":10.257929,
-		"distance_km":5,
+		"country":"DN",
+		"id":"IODENSE74",
+		"lat":55.424755,
+		"lon":10.317494,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Nordfyn",
+		"city":"Nordfyn",
+		"state":"",
+		"country":"DN",
+		"id":"INORDFYN2",
+		"lat":55.522911,
+		"lon":10.393770,
+		"distance_km":6,
 		"distance_mi":3
 		},
 		{
 		"neighborhood":"Fristedet",
 		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"IODENSE67",
-		"lat":55.424423,
-		"lon":10.350924,
-		"distance_km":5,
+		"country":"DN",
+		"id":"IODENSE59",
+		"lat":55.424362,
+		"lon":10.350189,
+		"distance_km":6,
 		"distance_mi":3
 		},
 		{
-		"neighborhood":"Villestoftedalen",
+		"neighborhood":"Lindegårdsvej",
+		"city":"Otterup",
+		"state":"",
+		"country":"DK",
+		"id":"IOTTERUP2",
+		"lat":55.520947,
+		"lon":10.405146,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Karenvænget",
 		"city":"Odense",
 		"state":"",
 		"country":"DK",
-		"id":"IODENSE73",
-		"lat":55.421818,
-		"lon":10.322215,
-		"distance_km":5,
+		"id":"IODENSE3",
+		"lat":55.422894,
+		"lon":10.358850,
+		"distance_km":6,
 		"distance_mi":3
 		},
 		{
@@ -167,8 +187,8 @@
 		"id":"IODENSE125",
 		"lat":55.419285,
 		"lon":10.351684,
-		"distance_km":5,
-		"distance_mi":3
+		"distance_km":6,
+		"distance_mi":4
 		},
 		{
 		"neighborhood":"Rugårdsvej",
@@ -178,19 +198,8 @@
 		"id":"IODENSE93",
 		"lat":55.419147,
 		"lon":10.294271,
-		"distance_km":6,
-		"distance_mi":3
-		},
-		{
-		"neighborhood":"Åhaven",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE105",
-		"lat":55.417606,
-		"lon":10.365136,
-		"distance_km":6,
-		"distance_mi":3
+		"distance_km":7,
+		"distance_mi":4
 		},
 		{
 		"neighborhood":"Stigevej",
@@ -200,19 +209,19 @@
 		"id":"IODENSE98",
 		"lat":55.436409,
 		"lon":10.413977,
-		"distance_km":6,
-		"distance_mi":3
+		"distance_km":7,
+		"distance_mi":4
 		},
 		{
-		"neighborhood":"Skovløkken",
+		"neighborhood":"Åhaven",
 		"city":"Odense",
 		"state":"",
 		"country":"DK",
-		"id":"IODENSE33",
-		"lat":55.412380,
-		"lon":10.351159,
-		"distance_km":6,
-		"distance_mi":3
+		"id":"IODENSE105",
+		"lat":55.417606,
+		"lon":10.365136,
+		"distance_km":7,
+		"distance_mi":4
 		},
 		{
 		"neighborhood":"Bredbjergvej",
@@ -222,7 +231,7 @@
 		"id":"IODENSE12",
 		"lat":55.432106,
 		"lon":10.245802,
-		"distance_km":6,
+		"distance_km":7,
 		"distance_mi":4
 		},
 		{
@@ -233,18 +242,29 @@
 		"id":"IODENSE104",
 		"lat":55.420456,
 		"lon":10.394947,
-		"distance_km":6,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Odense Municipality",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE70",
+		"lat":55.408909,
+		"lon":10.334706,
+		"distance_km":7,
 		"distance_mi":4
 		},
 		{
 		"neighborhood":"Saxovej",
 		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"IODENSE102",
-		"lat":55.406460,
-		"lon":10.343756,
-		"distance_km":7,
+		"country":"DN",
+		"id":"IODENSE85",
+		"lat":55.407158,
+		"lon":10.337484,
+		"distance_km":8,
 		"distance_mi":4
 		},
 		{
@@ -255,18 +275,7 @@
 		"id":"IODENSE55",
 		"lat":55.414310,
 		"lon":10.389917,
-		"distance_km":7,
-		"distance_mi":4
-		},
-		{
-		"neighborhood":"Lindegårdsvej",
-		"city":"Otterup",
-		"state":"",
-		"country":"DK",
-		"id":"IOTTERUP2",
-		"lat":55.520947,
-		"lon":10.405146,
-		"distance_km":7,
+		"distance_km":8,
 		"distance_mi":4
 		},
 		{
@@ -277,8 +286,30 @@
 		"id":"IODENSE6",
 		"lat":55.410183,
 		"lon":10.389501,
-		"distance_km":7,
-		"distance_mi":4
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Odense",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE60",
+		"lat":55.404232,
+		"lon":10.365002,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Odense",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE58",
+		"lat":55.426270,
+		"lon":10.436715,
+		"distance_km":8,
+		"distance_mi":5
 		},
 		{
 		"neighborhood":"Svanevej",
@@ -288,40 +319,18 @@
 		"id":"IODENSE81",
 		"lat":55.409489,
 		"lon":10.404410,
-		"distance_km":8,
-		"distance_mi":4
-		},
-		{
-		"neighborhood":"Niels Steensens Vej",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE87",
-		"lat":55.394363,
-		"lon":10.345297,
-		"distance_km":8,
+		"distance_km":9,
 		"distance_mi":5
 		},
 		{
-		"neighborhood":"Vestre Stationsvej",
+		"neighborhood":"Holmehusvej",
 		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"IODENSE91",
-		"lat":55.398613,
-		"lon":10.376992,
-		"distance_km":8,
-		"distance_mi":5
-		},
-		{
-		"neighborhood":"Danmarksgade",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE4",
-		"lat":55.400402,
-		"lon":10.401496,
-		"distance_km":8,
+		"country":"DN",
+		"id":"IODENSE2",
+		"lat":55.406700,
+		"lon":10.406220,
+		"distance_km":9,
 		"distance_mi":5
 		},
 		{
@@ -332,6 +341,28 @@
 		"id":"IMORUD2",
 		"lat":55.444046,
 		"lon":10.193391,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Vestre Stationsvej",
+		"city":"Odense",
+		"state":"",
+		"country":"DK",
+		"id":"IODENSE91",
+		"lat":55.398613,
+		"lon":10.376992,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Rømersvej",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE145",
+		"lat":55.394791,
+		"lon":10.345513,
 		"distance_km":9,
 		"distance_mi":5
 		},
@@ -347,6 +378,28 @@
 		"distance_mi":5
 		},
 		{
+		"neighborhood":"Niels Steensens Vej",
+		"city":"Odense",
+		"state":"",
+		"country":"DK",
+		"id":"IODENSE87",
+		"lat":55.394363,
+		"lon":10.345297,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Danmarksgade",
+		"city":"Odense",
+		"state":"",
+		"country":"DK",
+		"id":"IODENSE4",
+		"lat":55.400402,
+		"lon":10.401496,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
 		"neighborhood":"Christiansgade",
 		"city":"Odense",
 		"state":"",
@@ -354,19 +407,8 @@
 		"id":"IODENSE79",
 		"lat":55.396290,
 		"lon":10.406564,
-		"distance_km":9,
-		"distance_mi":5
-		},
-		{
-		"neighborhood":"Gartnerhaven",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE53",
-		"lat":55.394035,
-		"lon":10.402883,
-		"distance_km":9,
-		"distance_mi":5
+		"distance_km":10,
+		"distance_mi":6
 		}
 		]
 		}
@@ -375,65 +417,65 @@
 		,
 	"forecast":{
 		"txt_forecast": {
-		"date":"1:48 PM CEST",
+		"date":"6:30 PM CET",
 		"forecastday": [
 		{
 		"period":0,
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
-		"title":"Tuesday",
-		"fcttext":"Sunny. Warm. High 72F. Winds ESE at 10 to 15 mph.",
-		"fcttext_metric":"Sunny. Warm. High 22C. Winds ESE at 10 to 15 km/h.",
-		"pop":"0"
+		"icon":"fog",
+		"icon_url":"http://icons.wxug.com/i/c/k/fog.gif",
+		"title":"Sunday",
+		"fcttext":"Fog developing overnight. Lows overnight in the low 40s.",
+		"fcttext_metric":"Areas of fog developing late. Low 5C.",
+		"pop":"20"
 		}
 		,
 		{
 		"period":1,
-		"icon":"nt_clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
-		"title":"Tuesday Night",
-		"fcttext":"Clear skies. Low 49F. Winds E at 5 to 10 mph.",
-		"fcttext_metric":"Clear skies. Low around 10C. Winds E at 10 to 15 km/h.",
-		"pop":"0"
+		"icon":"nt_fog",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_fog.gif",
+		"title":"Sunday Night",
+		"fcttext":"Cloudy skies during the evening with areas of fog developing after midnight. Low 42F. Winds light and variable.",
+		"fcttext_metric":"Cloudy this evening. Fog developing late. Low around 5C. Winds light and variable.",
+		"pop":"20"
 		}
 		,
 		{
 		"period":2,
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
-		"title":"Wednesday",
-		"fcttext":"Sunny. Warm. High 72F. Winds E at 10 to 20 mph.",
-		"fcttext_metric":"Sunny skies. Warm. High 22C. Winds E at 15 to 30 km/h.",
-		"pop":"0"
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+		"title":"Monday",
+		"fcttext":"Mostly cloudy. High 54F. Winds WSW at 5 to 10 mph.",
+		"fcttext_metric":"Mostly cloudy. High 12C. Winds WSW at 10 to 15 km/h.",
+		"pop":"20"
 		}
 		,
 		{
 		"period":3,
-		"icon":"nt_clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
-		"title":"Wednesday Night",
-		"fcttext":"Clear. Low 48F. Winds E at 10 to 20 mph.",
-		"fcttext_metric":"Clear skies. Low 9C. Winds E at 15 to 30 km/h.",
-		"pop":"0"
+		"icon":"nt_chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+		"title":"Monday Night",
+		"fcttext":"Cloudy with occasional light rain after midnight. Low 48F. Winds WSW at 10 to 15 mph. Chance of rain 60%.",
+		"fcttext_metric":"Cloudy with light rain developing after midnight. Low 9C. Winds WSW at 15 to 25 km/h. Chance of rain 60%.",
+		"pop":"60"
 		}
 		,
 		{
 		"period":4,
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
-		"title":"Thursday",
-		"fcttext":"A mainly sunny sky. High 67F. Winds ENE at 10 to 15 mph.",
-		"fcttext_metric":"A mainly sunny sky. High 19C. Winds ENE at 15 to 25 km/h.",
-		"pop":"0"
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"title":"Tuesday",
+		"fcttext":"Light rain early. A mix of sun and clouds in the afternoon. High 52F. Winds WNW at 15 to 25 mph. Chance of rain 50%.",
+		"fcttext_metric":"Cloudy with light rain in the morning...then becoming partly cloudy. High 11C. Winds WNW at 25 to 40 km/h. Chance of rain 50%.",
+		"pop":"50"
 		}
 		,
 		{
 		"period":5,
 		"icon":"nt_clear",
 		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
-		"title":"Thursday Night",
-		"fcttext":"Generally fair. Low near 45F. Winds ENE at 10 to 15 mph.",
-		"fcttext_metric":"Clear skies with a few passing clouds. Low 7C. Winds ENE at 15 to 25 km/h.",
+		"title":"Tuesday Night",
+		"fcttext":"Mainly clear skies. Low around 40F. Winds WNW at 10 to 20 mph.",
+		"fcttext_metric":"Clear skies with a few passing clouds. Low 4C. Winds WNW at 15 to 30 km/h.",
 		"pop":"0"
 		}
 		,
@@ -441,19 +483,19 @@
 		"period":6,
 		"icon":"clear",
 		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
-		"title":"Friday",
-		"fcttext":"Mostly sunny skies. High 66F. Winds NW at 10 to 20 mph.",
-		"fcttext_metric":"Mostly sunny skies. High 19C. Winds NW at 15 to 30 km/h.",
-		"pop":"10"
+		"title":"Wednesday",
+		"fcttext":"Mainly sunny. High 44F. Winds NNW at 10 to 20 mph.",
+		"fcttext_metric":"Mainly sunny. High 7C. Winds NNW at 15 to 30 km/h.",
+		"pop":"0"
 		}
 		,
 		{
 		"period":7,
-		"icon":"nt_partlycloudy",
-		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
-		"title":"Friday Night",
-		"fcttext":"Partly cloudy skies. Low 41F. Winds WNW at 10 to 20 mph.",
-		"fcttext_metric":"Some clouds early will give way to generally clear conditions overnight. Low near 5C. Winds WNW at 15 to 30 km/h.",
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Wednesday Night",
+		"fcttext":"Clear skies. Low 34F. Winds NNW at 5 to 10 mph.",
+		"fcttext_metric":"Clear skies. Low 1C. Winds NNW at 10 to 15 km/h.",
 		"pop":"10"
 		}
 		]
@@ -461,45 +503,45 @@
 		"simpleforecast": {
 		"forecastday": [
 		{"date":{
-	"epoch":"1462899600",
-	"pretty":"7:00 PM CEST on May 10, 2016",
-	"day":10,
-	"month":5,
+	"epoch":"1477850400",
+	"pretty":"7:00 PM CET on October 30, 2016",
+	"day":30,
+	"month":10,
 	"year":2016,
-	"yday":130,
+	"yday":303,
 	"hour":19,
 	"min":"00",
 	"sec":0,
-	"isdst":"1",
-	"monthname":"May",
-	"monthname_short":"May",
-	"weekday_short":"Tue",
-	"weekday":"Tuesday",
+	"isdst":"0",
+	"monthname":"October",
+	"monthname_short":"Oct",
+	"weekday_short":"Sun",
+	"weekday":"Sunday",
 	"ampm":"PM",
-	"tz_short":"CEST",
+	"tz_short":"CET",
 	"tz_long":"Europe/Copenhagen"
 },
 		"period":1,
 		"high": {
-		"fahrenheit":"72",
-		"celsius":"22"
+		"fahrenheit":"50",
+		"celsius":"10"
 		},
 		"low": {
-		"fahrenheit":"49",
-		"celsius":"9"
+		"fahrenheit":"42",
+		"celsius":"6"
 		},
-		"conditions":"Clear",
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"conditions":"Fog",
+		"icon":"fog",
+		"icon_url":"http://icons.wxug.com/i/c/k/fog.gif",
 		"skyicon":"",
-		"pop":0,
+		"pop":20,
 		"qpf_allday": {
 		"in": 0.00,
 		"mm": 0
 		},
 		"qpf_day": {
-		"in": 0.00,
-		"mm": 0
+		"in": null,
+		"mm": null
 		},
 		"qpf_night": {
 		"in": 0.00,
@@ -510,74 +552,74 @@
 		"cm": 0.0
 		},
 		"snow_day": {
-		"in": 0.0,
-		"cm": 0.0
+		"in": null,
+		"cm": null
 		},
 		"snow_night": {
 		"in": 0.0,
 		"cm": 0.0
 		},
 		"maxwind": {
-		"mph": 15,
-		"kph": 24,
-		"dir": "ESE",
-		"degrees": 102
+		"mph": 7,
+		"kph": 11,
+		"dir": "WNW",
+		"degrees": 0
 		},
 		"avewind": {
-		"mph": 10,
-		"kph": 16,
-		"dir": "ESE",
-		"degrees": 102
+		"mph": 4,
+		"kph": 7,
+		"dir": "WNW",
+		"degrees": 0
 		},
-		"avehumidity": 48,
+		"avehumidity": 97,
 		"maxhumidity": 0,
 		"minhumidity": 0
 		}
 		,
 		{"date":{
-	"epoch":"1462986000",
-	"pretty":"7:00 PM CEST on May 11, 2016",
-	"day":11,
-	"month":5,
+	"epoch":"1477936800",
+	"pretty":"7:00 PM CET on October 31, 2016",
+	"day":31,
+	"month":10,
 	"year":2016,
-	"yday":131,
+	"yday":304,
 	"hour":19,
 	"min":"00",
 	"sec":0,
-	"isdst":"1",
-	"monthname":"May",
-	"monthname_short":"May",
-	"weekday_short":"Wed",
-	"weekday":"Wednesday",
+	"isdst":"0",
+	"monthname":"October",
+	"monthname_short":"Oct",
+	"weekday_short":"Mon",
+	"weekday":"Monday",
 	"ampm":"PM",
-	"tz_short":"CEST",
+	"tz_short":"CET",
 	"tz_long":"Europe/Copenhagen"
 },
 		"period":2,
 		"high": {
-		"fahrenheit":"72",
-		"celsius":"22"
+		"fahrenheit":"54",
+		"celsius":"12"
 		},
 		"low": {
 		"fahrenheit":"48",
 		"celsius":"9"
 		},
-		"conditions":"Clear",
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"conditions":"Mostly Cloudy",
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
 		"skyicon":"",
-		"pop":0,
+		"pop":20,
 		"qpf_allday": {
-		"in": 0.00,
-		"mm": 0
+		"in": 0.03,
+		"mm": 1
 		},
 		"qpf_day": {
 		"in": 0.00,
 		"mm": 0
 		},
 		"qpf_night": {
-		"in": 0.00,
-		"mm": 0
+		"in": 0.03,
+		"mm": 1
 		},
 		"snow_allday": {
 		"in": 0.0,
@@ -592,49 +634,123 @@
 		"cm": 0.0
 		},
 		"maxwind": {
-		"mph": 20,
-		"kph": 32,
-		"dir": "E",
-		"degrees": 100
+		"mph": 10,
+		"kph": 16,
+		"dir": "WSW",
+		"degrees": 252
 		},
 		"avewind": {
-		"mph": 15,
-		"kph": 24,
-		"dir": "E",
-		"degrees": 100
+		"mph": 9,
+		"kph": 14,
+		"dir": "WSW",
+		"degrees": 252
 		},
-		"avehumidity": 57,
+		"avehumidity": 98,
 		"maxhumidity": 0,
 		"minhumidity": 0
 		}
 		,
 		{"date":{
-	"epoch":"1463072400",
-	"pretty":"7:00 PM CEST on May 12, 2016",
-	"day":12,
-	"month":5,
+	"epoch":"1478023200",
+	"pretty":"7:00 PM CET on November 01, 2016",
+	"day":1,
+	"month":11,
 	"year":2016,
-	"yday":132,
+	"yday":305,
 	"hour":19,
 	"min":"00",
 	"sec":0,
-	"isdst":"1",
-	"monthname":"May",
-	"monthname_short":"May",
-	"weekday_short":"Thu",
-	"weekday":"Thursday",
+	"isdst":"0",
+	"monthname":"November",
+	"monthname_short":"Nov",
+	"weekday_short":"Tue",
+	"weekday":"Tuesday",
 	"ampm":"PM",
-	"tz_short":"CEST",
+	"tz_short":"CET",
 	"tz_long":"Europe/Copenhagen"
 },
 		"period":3,
 		"high": {
-		"fahrenheit":"67",
-		"celsius":"19"
+		"fahrenheit":"52",
+		"celsius":"11"
 		},
 		"low": {
-		"fahrenheit":"45",
+		"fahrenheit":"40",
+		"celsius":"4"
+		},
+		"conditions":"Chance of Rain",
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"skyicon":"",
+		"pop":50,
+		"qpf_allday": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 25,
+		"kph": 40,
+		"dir": "WNW",
+		"degrees": 284
+		},
+		"avewind": {
+		"mph": 17,
+		"kph": 27,
+		"dir": "WNW",
+		"degrees": 284
+		},
+		"avehumidity": 83,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1478109600",
+	"pretty":"7:00 PM CET on November 02, 2016",
+	"day":2,
+	"month":11,
+	"year":2016,
+	"yday":306,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"November",
+	"monthname_short":"Nov",
+	"weekday_short":"Wed",
+	"weekday":"Wednesday",
+	"ampm":"PM",
+	"tz_short":"CET",
+	"tz_long":"Europe/Copenhagen"
+},
+		"period":4,
+		"high": {
+		"fahrenheit":"44",
 		"celsius":"7"
+		},
+		"low": {
+		"fahrenheit":"34",
+		"celsius":"1"
 		},
 		"conditions":"Clear",
 		"icon":"clear",
@@ -666,92 +782,18 @@
 		"cm": 0.0
 		},
 		"maxwind": {
-		"mph": 15,
-		"kph": 24,
-		"dir": "ENE",
-		"degrees": 78
-		},
-		"avewind": {
-		"mph": 12,
-		"kph": 19,
-		"dir": "ENE",
-		"degrees": 78
-		},
-		"avehumidity": 62,
-		"maxhumidity": 0,
-		"minhumidity": 0
-		}
-		,
-		{"date":{
-	"epoch":"1463158800",
-	"pretty":"7:00 PM CEST on May 13, 2016",
-	"day":13,
-	"month":5,
-	"year":2016,
-	"yday":133,
-	"hour":19,
-	"min":"00",
-	"sec":0,
-	"isdst":"1",
-	"monthname":"May",
-	"monthname_short":"May",
-	"weekday_short":"Fri",
-	"weekday":"Friday",
-	"ampm":"PM",
-	"tz_short":"CEST",
-	"tz_long":"Europe/Copenhagen"
-},
-		"period":4,
-		"high": {
-		"fahrenheit":"66",
-		"celsius":"19"
-		},
-		"low": {
-		"fahrenheit":"41",
-		"celsius":"5"
-		},
-		"conditions":"Clear",
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
-		"skyicon":"",
-		"pop":10,
-		"qpf_allday": {
-		"in": 0.00,
-		"mm": 0
-		},
-		"qpf_day": {
-		"in": 0.00,
-		"mm": 0
-		},
-		"qpf_night": {
-		"in": 0.00,
-		"mm": 0
-		},
-		"snow_allday": {
-		"in": 0.0,
-		"cm": 0.0
-		},
-		"snow_day": {
-		"in": 0.0,
-		"cm": 0.0
-		},
-		"snow_night": {
-		"in": 0.0,
-		"cm": 0.0
-		},
-		"maxwind": {
 		"mph": 20,
 		"kph": 32,
-		"dir": "NW",
-		"degrees": 316
+		"dir": "NNW",
+		"degrees": 330
 		},
 		"avewind": {
-		"mph": 13,
-		"kph": 21,
-		"dir": "NW",
-		"degrees": 316
+		"mph": 16,
+		"kph": 26,
+		"dir": "NNW",
+		"degrees": 330
 		},
-		"avehumidity": 54,
+		"avehumidity": 74,
 		"maxhumidity": 0,
 		"minhumidity": 0
 		}

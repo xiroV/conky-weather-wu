@@ -1,0 +1,9 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "country": "COUNTRY",
+  "city": "CITY",
+  "update_interval_minutes": 30,
+  "temp_units": "C",
+  "speed_units": "KPH",
+  "length_units": "MM"
+}

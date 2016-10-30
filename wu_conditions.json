@@ -14,25 +14,23 @@
 		"country":"DN",
 		"country_iso3166":"DK",
 		"country_name":"Denmark",
-		"state":"",
+		"state":"83",
 		"city":"Odense",
-		"tz_short":"CEST",
+		"tz_short":"CET",
 		"tz_long":"Europe/Copenhagen",
-		"lat":"55.47000122",
+		"lat":"55.47999954",
 		"lon":"10.32999992",
 		"zip":"00000",
 		"magic":"1",
 		"wmo":"06120",
 		"l":"/q/zmw:00000.1.06120",
 		"requesturl":"global/stations/06120.html",
-		"wuiurl":"http://www.wunderground.com/global/stations/06120.html",
+		"wuiurl":"https://www.wunderground.com/global/stations/06120.html",
 		"nearby_weather_stations": {
 		"airport": {
 		"station": [
 		{ "city":"Odense / Beldringe", "state":"", "country":"Denmark", "icao":"EKOD", "lat":"55.47499847", "lon":"10.33055592" }
 		,{ "city":"Odense", "state":"", "country":"DN", "icao":"EKOD", "lat":"55.47499847", "lon":"10.33055592" }
-		,{ "city":"Vamdrup", "state":"", "country":"DN", "icao":"EKVD", "lat":"55.43750000", "lon":"9.33361053" }
-		,{ "city":"Soenderborg", "state":"", "country":"DN", "icao":"EKSB", "lat":"54.96222305", "lon":"9.78750038" }
 		]
 		}
 		,
@@ -46,7 +44,7 @@
 		"id":"IODENSE63",
 		"lat":55.453449,
 		"lon":10.317951,
-		"distance_km":1,
+		"distance_km":3,
 		"distance_mi":1
 		},
 		{
@@ -57,8 +55,19 @@
 		"id":"IODENSE57",
 		"lat":55.460133,
 		"lon":10.291737,
-		"distance_km":2,
+		"distance_km":3,
 		"distance_mi":1
+		},
+		{
+		"neighborhood":"Hjadstrupvej",
+		"city":"Otterup",
+		"state":"",
+		"country":"DN",
+		"id":"IOTTERUP10",
+		"lat":55.510857,
+		"lon":10.335687,
+		"distance_km":3,
+		"distance_mi":2
 		},
 		{
 		"neighborhood":"Agerhønevænget",
@@ -68,7 +77,18 @@
 		"id":"IODENSE41",
 		"lat":55.438499,
 		"lon":10.343844,
-		"distance_km":3,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Bogegaardsvej",
+		"city":"Søndersø",
+		"state":"",
+		"country":"DK",
+		"id":"ISNDERS2",
+		"lat":55.491634,
+		"lon":10.257929,
+		"distance_km":4,
 		"distance_mi":2
 		},
 		{
@@ -79,8 +99,8 @@
 		"id":"IODENSE100",
 		"lat":55.432838,
 		"lon":10.332751,
-		"distance_km":4,
-		"distance_mi":2
+		"distance_km":5,
+		"distance_mi":3
 		},
 		{
 		"neighborhood":"Anderupvænget",
@@ -90,30 +110,8 @@
 		"id":"IODENSE89",
 		"lat":55.437668,
 		"lon":10.371517,
-		"distance_km":4,
-		"distance_mi":2
-		},
-		{
-		"neighborhood":"Hjadstrupvej",
-		"city":"Otterup",
-		"state":"",
-		"country":"DN",
-		"id":"IOTTERUP10",
-		"lat":55.510857,
-		"lon":10.335687,
-		"distance_km":4,
-		"distance_mi":2
-		},
-		{
-		"neighborhood":"Bøgegårdsvej",
-		"city":"Skamby",
-		"state":"",
-		"country":"DK",
-		"id":"ISKAMBY2",
-		"lat":55.492134,
-		"lon":10.261614,
-		"distance_km":4,
-		"distance_mi":2
+		"distance_km":5,
+		"distance_mi":3
 		},
 		{
 		"neighborhood":"Odense",
@@ -127,36 +125,58 @@
 		"distance_mi":3
 		},
 		{
-		"neighborhood":"Bogegaardsvej",
-		"city":"Søndersø",
+		"neighborhood":"Odense Municipality",
+		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"ISNDERS2",
-		"lat":55.491634,
-		"lon":10.257929,
-		"distance_km":5,
+		"country":"DN",
+		"id":"IODENSE74",
+		"lat":55.424755,
+		"lon":10.317494,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Nordfyn",
+		"city":"Nordfyn",
+		"state":"",
+		"country":"DN",
+		"id":"INORDFYN2",
+		"lat":55.522911,
+		"lon":10.393770,
+		"distance_km":6,
 		"distance_mi":3
 		},
 		{
 		"neighborhood":"Fristedet",
 		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"IODENSE67",
-		"lat":55.424423,
-		"lon":10.350924,
-		"distance_km":5,
+		"country":"DN",
+		"id":"IODENSE59",
+		"lat":55.424362,
+		"lon":10.350189,
+		"distance_km":6,
 		"distance_mi":3
 		},
 		{
-		"neighborhood":"Villestoftedalen",
+		"neighborhood":"Lindegårdsvej",
+		"city":"Otterup",
+		"state":"",
+		"country":"DK",
+		"id":"IOTTERUP2",
+		"lat":55.520947,
+		"lon":10.405146,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Karenvænget",
 		"city":"Odense",
 		"state":"",
 		"country":"DK",
-		"id":"IODENSE73",
-		"lat":55.421818,
-		"lon":10.322215,
-		"distance_km":5,
+		"id":"IODENSE3",
+		"lat":55.422894,
+		"lon":10.358850,
+		"distance_km":6,
 		"distance_mi":3
 		},
 		{
@@ -167,8 +187,8 @@
 		"id":"IODENSE125",
 		"lat":55.419285,
 		"lon":10.351684,
-		"distance_km":5,
-		"distance_mi":3
+		"distance_km":6,
+		"distance_mi":4
 		},
 		{
 		"neighborhood":"Rugårdsvej",
@@ -178,19 +198,8 @@
 		"id":"IODENSE93",
 		"lat":55.419147,
 		"lon":10.294271,
-		"distance_km":6,
-		"distance_mi":3
-		},
-		{
-		"neighborhood":"Åhaven",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE105",
-		"lat":55.417606,
-		"lon":10.365136,
-		"distance_km":6,
-		"distance_mi":3
+		"distance_km":7,
+		"distance_mi":4
 		},
 		{
 		"neighborhood":"Stigevej",
@@ -200,19 +209,19 @@
 		"id":"IODENSE98",
 		"lat":55.436409,
 		"lon":10.413977,
-		"distance_km":6,
-		"distance_mi":3
+		"distance_km":7,
+		"distance_mi":4
 		},
 		{
-		"neighborhood":"Skovløkken",
+		"neighborhood":"Åhaven",
 		"city":"Odense",
 		"state":"",
 		"country":"DK",
-		"id":"IODENSE33",
-		"lat":55.412380,
-		"lon":10.351159,
-		"distance_km":6,
-		"distance_mi":3
+		"id":"IODENSE105",
+		"lat":55.417606,
+		"lon":10.365136,
+		"distance_km":7,
+		"distance_mi":4
 		},
 		{
 		"neighborhood":"Bredbjergvej",
@@ -222,7 +231,7 @@
 		"id":"IODENSE12",
 		"lat":55.432106,
 		"lon":10.245802,
-		"distance_km":6,
+		"distance_km":7,
 		"distance_mi":4
 		},
 		{
@@ -233,18 +242,29 @@
 		"id":"IODENSE104",
 		"lat":55.420456,
 		"lon":10.394947,
-		"distance_km":6,
+		"distance_km":7,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"Odense Municipality",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE70",
+		"lat":55.408909,
+		"lon":10.334706,
+		"distance_km":7,
 		"distance_mi":4
 		},
 		{
 		"neighborhood":"Saxovej",
 		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"IODENSE102",
-		"lat":55.406460,
-		"lon":10.343756,
-		"distance_km":7,
+		"country":"DN",
+		"id":"IODENSE85",
+		"lat":55.407158,
+		"lon":10.337484,
+		"distance_km":8,
 		"distance_mi":4
 		},
 		{
@@ -255,18 +275,7 @@
 		"id":"IODENSE55",
 		"lat":55.414310,
 		"lon":10.389917,
-		"distance_km":7,
-		"distance_mi":4
-		},
-		{
-		"neighborhood":"Lindegårdsvej",
-		"city":"Otterup",
-		"state":"",
-		"country":"DK",
-		"id":"IOTTERUP2",
-		"lat":55.520947,
-		"lon":10.405146,
-		"distance_km":7,
+		"distance_km":8,
 		"distance_mi":4
 		},
 		{
@@ -277,8 +286,30 @@
 		"id":"IODENSE6",
 		"lat":55.410183,
 		"lon":10.389501,
-		"distance_km":7,
-		"distance_mi":4
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Odense",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE60",
+		"lat":55.404232,
+		"lon":10.365002,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Odense",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE58",
+		"lat":55.426270,
+		"lon":10.436715,
+		"distance_km":8,
+		"distance_mi":5
 		},
 		{
 		"neighborhood":"Svanevej",
@@ -288,40 +319,18 @@
 		"id":"IODENSE81",
 		"lat":55.409489,
 		"lon":10.404410,
-		"distance_km":8,
-		"distance_mi":4
-		},
-		{
-		"neighborhood":"Niels Steensens Vej",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE87",
-		"lat":55.394363,
-		"lon":10.345297,
-		"distance_km":8,
+		"distance_km":9,
 		"distance_mi":5
 		},
 		{
-		"neighborhood":"Vestre Stationsvej",
+		"neighborhood":"Holmehusvej",
 		"city":"Odense",
 		"state":"",
-		"country":"DK",
-		"id":"IODENSE91",
-		"lat":55.398613,
-		"lon":10.376992,
-		"distance_km":8,
-		"distance_mi":5
-		},
-		{
-		"neighborhood":"Danmarksgade",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE4",
-		"lat":55.400402,
-		"lon":10.401496,
-		"distance_km":8,
+		"country":"DN",
+		"id":"IODENSE2",
+		"lat":55.406700,
+		"lon":10.406220,
+		"distance_km":9,
 		"distance_mi":5
 		},
 		{
@@ -332,6 +341,28 @@
 		"id":"IMORUD2",
 		"lat":55.444046,
 		"lon":10.193391,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Vestre Stationsvej",
+		"city":"Odense",
+		"state":"",
+		"country":"DK",
+		"id":"IODENSE91",
+		"lat":55.398613,
+		"lon":10.376992,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Rømersvej",
+		"city":"Odense",
+		"state":"",
+		"country":"DN",
+		"id":"IODENSE145",
+		"lat":55.394791,
+		"lon":10.345513,
 		"distance_km":9,
 		"distance_mi":5
 		},
@@ -347,6 +378,28 @@
 		"distance_mi":5
 		},
 		{
+		"neighborhood":"Niels Steensens Vej",
+		"city":"Odense",
+		"state":"",
+		"country":"DK",
+		"id":"IODENSE87",
+		"lat":55.394363,
+		"lon":10.345297,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Danmarksgade",
+		"city":"Odense",
+		"state":"",
+		"country":"DK",
+		"id":"IODENSE4",
+		"lat":55.400402,
+		"lon":10.401496,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
 		"neighborhood":"Christiansgade",
 		"city":"Odense",
 		"state":"",
@@ -354,19 +407,8 @@
 		"id":"IODENSE79",
 		"lat":55.396290,
 		"lon":10.406564,
-		"distance_km":9,
-		"distance_mi":5
-		},
-		{
-		"neighborhood":"Gartnerhaven",
-		"city":"Odense",
-		"state":"",
-		"country":"DK",
-		"id":"IODENSE53",
-		"lat":55.394035,
-		"lon":10.402883,
-		"distance_km":9,
-		"distance_mi":5
+		"distance_km":10,
+		"distance_mi":6
 		}
 		]
 		}
@@ -381,22 +423,22 @@
 		"display_location": {
 		"full":"Odense, Denmark",
 		"city":"Odense",
-		"state":"",
+		"state":"83",
 		"state_name":"Denmark",
 		"country":"DN",
 		"country_iso3166":"DK",
 		"zip":"00000",
 		"magic":"1",
 		"wmo":"06120",
-		"latitude":"55.47000122",
+		"latitude":"55.47999954",
 		"longitude":"10.32999992",
-		"elevation":"17.00000000"
+		"elevation":"17.1"
 		},
 		"observation_location": {
-		"full":"Odense, ",
-		"city":"Odense",
+		"full":"Odense / Beldringe, ",
+		"city":"Odense / Beldringe",
 		"state":"",
-		"country":"DN",
+		"country":"Denmark",
 		"country_iso3166":"DK",
 		"latitude":"55.47499847",
 		"longitude":"10.33055592",
@@ -405,54 +447,54 @@
 		"estimated": {
 		},
 		"station_id":"EKOD",
-		"observation_time":"Last Updated on May 10, 2:50 PM CEST",
-		"observation_time_rfc822":"Tue, 10 May 2016 14:50:00 +0200",
-		"observation_epoch":"1462884600",
-		"local_time_rfc822":"Tue, 10 May 2016 15:15:29 +0200",
-		"local_epoch":"1462886129",
-		"local_tz_short":"CEST",
+		"observation_time":"Last Updated on October 30, 7:00 PM CET",
+		"observation_time_rfc822":"Sun, 30 Oct 2016 19:00:00 +0100",
+		"observation_epoch":"1477850400",
+		"local_time_rfc822":"Sun, 30 Oct 2016 19:55:43 +0100",
+		"local_epoch":"1477853743",
+		"local_tz_short":"CET",
 		"local_tz_long":"Europe/Copenhagen",
-		"local_tz_offset":"+0200",
-		"weather":"Clear",
-		"temperature_string":"72 F (22 C)",
-		"temp_f":72,
-		"temp_c":22,
-		"relative_humidity":"43%",
-		"wind_string":"From the East at 10 MPH",
-		"wind_dir":"East",
-		"wind_degrees":80,
-		"wind_mph":10,
+		"local_tz_offset":"+0100",
+		"weather":"Overcast",
+		"temperature_string":"47 F (8 C)",
+		"temp_f":47,
+		"temp_c":8,
+		"relative_humidity":"80%",
+		"wind_string":"From the South at 2 MPH",
+		"wind_dir":"South",
+		"wind_degrees":170,
+		"wind_mph":2,
 		"wind_gust_mph":0,
-		"wind_kph":17,
+		"wind_kph":4,
 		"wind_gust_kph":0,
-		"pressure_mb":"1017",
-		"pressure_in":"30.04",
-		"pressure_trend":"0",
-		"dewpoint_string":"48 F (9 C)",
-		"dewpoint_f":48,
-		"dewpoint_c":9,
+		"pressure_mb":"1029",
+		"pressure_in":"30.40",
+		"pressure_trend":"+",
+		"dewpoint_string":"43 F (6 C)",
+		"dewpoint_f":43,
+		"dewpoint_c":6,
 		"heat_index_string":"NA",
 		"heat_index_f":"NA",
 		"heat_index_c":"NA",
 		"windchill_string":"NA",
 		"windchill_f":"NA",
 		"windchill_c":"NA",
-		"feelslike_string":"72 F (22 C)",
-		"feelslike_f":"72",
-		"feelslike_c":"22",
-		"visibility_mi":"N/A",
-		"visibility_km":"N/A",
+		"feelslike_string":"47 F (8 C)",
+		"feelslike_f":"47",
+		"feelslike_c":"8",
+		"visibility_mi":"14.0",
+		"visibility_km":"23.0",
 		"solarradiation":"--",
-		"UV":"-1","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
-		"precip_1hr_in":"-9999.00",
+		"UV":"0","precip_1hr_string":" in ( mm)",
+		"precip_1hr_in":"",
 		"precip_1hr_metric":"--",
-		"precip_today_string":"0.00 in (0.0 mm)",
-		"precip_today_in":"0.00",
-		"precip_today_metric":"0.0",
-		"icon":"clear",
-		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"precip_today_string":" in ( mm)",
+		"precip_today_in":"",
+		"precip_today_metric":"--",
+		"icon":"cloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_cloudy.gif",
 		"forecast_url":"http://www.wunderground.com/global/stations/06120.html",
-		"history_url":"http://www.wunderground.com/history/airport/EKOD/2016/5/10/DailyHistory.html",
+		"history_url":"http://www.wunderground.com/history/airport/EKOD/2016/10/30/DailyHistory.html",
 		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=55.47499847,10.33055592",
 		"nowcast":""
 	}

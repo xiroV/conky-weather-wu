@@ -1,9 +1,0 @@
-{
-  "api_key": "YOUR_API_KEY_HERE"
-  "country": "Denmark",
-  "city": "Odense",
-  "update_interval_minutes": 10,
-  "temp_units": "C",
-  "speed_units": "KPH",
-  "length_units": "MM"
-}
