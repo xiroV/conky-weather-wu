@@ -1,3 +1,6 @@
+# NOTICE
+This project have been moved to GitLab: [[https://gitlab.com/xiroV/wunderground-py]]
+
 # News
 ## October 30, 2016
 Realized that I had, at some point, accidentially pushed my API key to this repository, and had a reason to think that it had gotten compromised. For this reason, I regenerated my API key. If you're experiencing problems from this day, you were probably using my API key, and you should generate your own key to use data from [Weather Underground](https://www.wunderground.com/?apiref=7e6536cf90e4891d). Register for a free API key [here](https://www.wunderground.com/weather/api/).
