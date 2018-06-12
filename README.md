@@ -1,5 +1,5 @@
 # NOTICE
-This project have been moved to GitLab: [[https://gitlab.com/xiroV/wunderground-py]]
+This project have been moved to GitLab: https://gitlab.com/xiroV/wunderground-py
 
 # News
 ## October 30, 2016
